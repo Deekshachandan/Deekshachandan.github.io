@@ -434,6 +434,13 @@
     color: #000;
     /* change */
   }
+
+.card{
+display: flex;
+flex-wrap: wrap;
+}
+
+
   .project .carousel .card .box {
     display: flex;
     flex-direction: column;
