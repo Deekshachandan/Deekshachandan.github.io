@@ -729,7 +729,9 @@ flex-wrap: wrap;
     }
     #stats{
       width: 50%;
+    
     }
+  
 
 
   }
@@ -769,9 +771,18 @@ padding: 20px;
 .calendar{
   width: 50%;
 }
-#stats{
-  width: 40%;
+#statsdiv{
+  width: 50%;
+  margin: auto;
 }
+
+#statsimg{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+
 
   }
   
@@ -806,11 +817,29 @@ padding: 20px;
     }
 
     .calendar{
-      width: 30%;
+      width: 90%;
     }
 
+   
     #stats{
-      width: 10%;
+      width: 50%;
+      margin: auto;
     }
+
+    #statsdiv{
+      width: 100%;
+      margin: auto;
+    
+    }
+    
+    #statsimg{
+      width: 100%;
+         display: block;
+        margin: auto;
+    }
+
+
+
+
 }
   
